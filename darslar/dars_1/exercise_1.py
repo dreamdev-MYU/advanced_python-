@@ -10,21 +10,13 @@
         
 #     return count
 
-
-
 # s=100
 # print(top(s))
-
 
 # a='asrorbrk'
 # a[1]='b'
 # int,boolean,set, float ,tuple str>> immutable 
 # list, dict>> mutable 
-
-
-
-
-
 
 
 # a=[2,3,5,6,7,89]
